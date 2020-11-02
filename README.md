@@ -1,2 +1,3 @@
-# SE-2P-ghdesktop
+# SE-2P
+Thinkful's portfolio.
  
